@@ -1,0 +1,15 @@
+{
+  "_comment": "Case-insensitive regular expressions matched against title, venue/abstract, and Fed in Print subject keywords. Tags are descriptive aids only; they do not characterize a policy stance.",
+  "topics": {
+    "Monetary policy": "monetary policy|policy rate|federal funds|interest rate|\\bfomc\\b|r-star|neutral rate|forward guidance|dual mandate|economic outlook|policy outlook",
+    "Inflation": "inflation|price stability|disinflation|pass-through|\\bprices\\b",
+    "Labor market": "labor|employment|unemployment|\\bjobs?\\b|wages?|workforce",
+    "Balance sheet and markets": "balance sheet|reserves|\\brepo|\\bsoma\\b|money market|treasury market|liquidity|runoff|asset purchases|\\bthe desk\\b",
+    "Banking and supervision": "bank(ing)? (supervision|regulation)|supervis|capital requirement|stress test|community bank|basel|regulat",
+    "Financial stability": "financial stability|systemic|financial crisis|crises|resilien",
+    "Payments and digital assets": "payment|stablecoin|digital (currenc|asset)|fednow|crypto|tokeniz|genius act",
+    "AI and productivity": "(?-i:\\bAI\\b)|artificial intelligence|productivity|technolog",
+    "Trade and global": "tariff|\\btrade\\b|global|international|dollar|geoeconomic",
+    "Regional economy": "district|regional|rural|community development|economic conditions in"
+  }
+}

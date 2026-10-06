@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>FRB: Speeches and Testimony</title>
+        <link><![CDATA[https://www.federalreserve.gov/feeds/feeds.htm]]></link>
+        <description><![CDATA[Speeches and Testimony of Federal Reserve Officials]]></description>
+        <language>en</language>
+        <item>
+            <title>Jefferson, Navigating Economic Shocks: A Monetary Policymaker’s Perspective</title>
+            <link><![CDATA[https://www.federalreserve.gov/newsevents/speech/jefferson20260716a.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/newsevents/speech/jefferson20260716a.htm]]></guid>
+            <description><![CDATA[Speech At the Stanford Institute for Economic Policy Research, Stanford University, Stanford, California]]></description>
+            <category>Speech</category>
+            <pubDate><![CDATA[Thu, 16 Jul 2026 23:00:00 GMT]]></pubDate>
+        </item>
+        <item>
+            <title>Bowman, A Framework for Practical Monetary Policy Decision Making</title>
+            <link><![CDATA[https://www.federalreserve.gov/newsevents/speech/bowman20260529a.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/newsevents/speech/bowman20260529a.htm]]></guid>
+            <description><![CDATA[Speech At the Reykjav&iacute;k Economic Conference 2026, Central Bank of Iceland, Reykjav&iacute;k, Iceland]]></description>
+            <category>Speech</category>
+            <pubDate><![CDATA[Fri, 29 May 2026 13:10:00 GMT]]></pubDate>
+        </item>
+        <item>
+            <title>Barr, Efficient and Effective Central Banking: Beyond the Balance Sheet</title>
+            <link><![CDATA[https://www.federalreserve.gov/newsevents/speech/barr20260514a.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/newsevents/speech/barr20260514a.htm]]></guid>
+            <description><![CDATA[Speech At the Money Marketeers of New York University, New York, New York]]></description>
+            <category>Speech</category>
+            <pubDate><![CDATA[Thu, 14 May 2026 23:00:00 GMT]]></pubDate>
+        </item>
+        <item>
+            <title>Cook, Reflections on Financial Stability</title>
+            <link><![CDATA[https://www.federalreserve.gov/newsevents/speech/cook20260326a.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/newsevents/speech/cook20260326a.htm]]></guid>
+            <description><![CDATA[Speech At Yale Program on Financial Stability, School of Management, Yale University, New Haven, Connecticut]]></description>
+            <category>Speech</category>
+            <pubDate><![CDATA[Thu, 26 Mar 2026 20:00:00 GMT]]></pubDate>
+        </item>
+        <item>
+            <title>Miran, Prospects for Shrinking the Fed’s Balance Sheet</title>
+            <link><![CDATA[https://www.federalreserve.gov/newsevents/speech/miran20260326a.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/newsevents/speech/miran20260326a.htm]]></guid>
+            <description><![CDATA[Speech At the Economic Club of Miami, Miami, Florida]]></description>
+            <category>Speech</category>
+            <pubDate><![CDATA[Thu, 26 Mar 2026 22:30:00 GMT]]></pubDate>
+        </item>
+        <item>
+            <title>Powell, Statement from Federal Reserve Chair Jerome H. Powell</title>
+            <link><![CDATA[https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm]]></guid>
+            <description><![CDATA[Speech ]]></description>
+            <category>Speech</category>
+            <pubDate><![CDATA[Mon, 12 Jan 2026 00:30:00 GMT]]></pubDate>
+        </item>
+        <item>
+            <title>Guynn, Testimony</title>
+            <link><![CDATA[https://www.federalreserve.gov/newsevents/testimony/guynn20260326a.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/newsevents/testimony/guynn20260326a.htm]]></guid>
+            <description><![CDATA[Testimony ]]></description>
+            <category>Testimony</category>
+            <pubDate><![CDATA[Thu, 26 Mar 2026 14:00:00 GMT]]></pubDate>
+        </item>
+    </channel>
+</rss>

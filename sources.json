@@ -1,0 +1,84 @@
+{
+  "_comment": "Source registry. priority: lower number wins when the same remarks appear in two sources. stale_after_days: health check flags a source whose newest item is older than this. Verification notes reflect checks made on 2026-10-06.",
+  "contact": "replace-with-your-email@example.com",
+  "sources": [
+    {
+      "id": "board",
+      "name": "Board of Governors: speeches and testimony",
+      "org": "Board of Governors",
+      "adapter": "board_rss",
+      "url": "https://www.federalreserve.gov/feeds/speeches_and_testimony.xml",
+      "priority": 1,
+      "stale_after_days": 45,
+      "verified": "Official Board RSS feed; structure confirmed 2026-10-06."
+    },
+    {
+      "id": "dallas_direct",
+      "name": "Dallas Fed: president's speeches",
+      "org": "Dallas",
+      "adapter": "bank_rss",
+      "url": "https://www.dallasfed.org/rss/speeches",
+      "default_speaker": "logan",
+      "priority": 2,
+      "stale_after_days": 120,
+      "verified": "Official Dallas Fed RSS; listed on dallasfed.org/rss."
+    },
+    {
+      "id": "atlanta_direct",
+      "name": "Atlanta Fed: speeches",
+      "org": "Atlanta",
+      "adapter": "bank_rss",
+      "url": "https://www.atlantafed.org/rss/speechindex",
+      "priority": 2,
+      "stale_after_days": 180,
+      "verified": "Official Atlanta Fed RSS. Few new items expected while the Bank is led by an interim president."
+    },
+    {
+      "id": "boston_direct",
+      "name": "Boston Fed: speeches",
+      "org": "Boston",
+      "adapter": "bank_rss",
+      "url": "https://www.bostonfed.org/feeds/rss_speeches.xml",
+      "default_speaker": "collins",
+      "priority": 2,
+      "stale_after_days": 120,
+      "verified": "Official feed is live but its newest item was Nov. 15, 2024 when checked; expect a stale flag. Fed in Print covers Boston."
+    },
+    {
+      "id": "chicago_direct",
+      "name": "Chicago Fed: president's speaking engagements",
+      "org": "Chicago",
+      "adapter": "html_links",
+      "url": "https://www.chicagofed.org/utilities/about-us/office-of-the-president/office-of-the-president-speaking",
+      "link_pattern": "^https://www\\.chicagofed\\.org/publications/speeches/(?P<y>\\d{4})/(?P<mon>[a-z]{3})-(?P<d>\\d{1,2})-",
+      "default_speaker": "goolsbee",
+      "priority": 3,
+      "stale_after_days": 120,
+      "verified": "URL pattern confirmed from 2026 speech pages; listing-page markup not tested from this environment."
+    },
+    {
+      "id": "kansascity_direct",
+      "name": "Kansas City Fed: speeches",
+      "org": "Kansas City",
+      "adapter": "html_links",
+      "url": "https://www.kansascityfed.org/speeches/",
+      "link_pattern": "^https://www\\.kansascityfed\\.org/speeches/(?!index)[a-z0-9-]+/?$",
+      "priority": 3,
+      "stale_after_days": 120,
+      "verified": "URL pattern confirmed from speech pages; pages carry no date in the URL, so the first-seen date is used and marked as estimated."
+    },
+    { "id": "fip_board", "name": "Fed in Print: Board", "org": "Board of Governors", "adapter": "fedinprint_rss", "url": "https://www.fedinprint.org/rss/board.rss", "priority": 4, "stale_after_days": 120 },
+    { "id": "fip_boston", "name": "Fed in Print: Boston", "org": "Boston", "adapter": "fedinprint_rss", "url": "https://www.fedinprint.org/rss/boston.rss", "priority": 4, "stale_after_days": 120 },
+    { "id": "fip_newyork", "name": "Fed in Print: New York", "org": "New York", "adapter": "fedinprint_rss", "url": "https://www.fedinprint.org/rss/newyork.rss", "priority": 4, "stale_after_days": 60, "verified": "Structure confirmed 2026-10-06 (bibo:series = Speech; dc:creator; dc:date)." },
+    { "id": "fip_philadelphia", "name": "Fed in Print: Philadelphia", "org": "Philadelphia", "adapter": "fedinprint_rss", "url": "https://www.fedinprint.org/rss/philadelphia.rss", "priority": 4, "stale_after_days": 120 },
+    { "id": "fip_cleveland", "name": "Fed in Print: Cleveland", "org": "Cleveland", "adapter": "fedinprint_rss", "url": "https://www.fedinprint.org/rss/cleveland.rss", "priority": 4, "stale_after_days": 120 },
+    { "id": "fip_richmond", "name": "Fed in Print: Richmond", "org": "Richmond", "adapter": "fedinprint_rss", "url": "https://www.fedinprint.org/rss/richmond.rss", "priority": 4, "stale_after_days": 120 },
+    { "id": "fip_atlanta", "name": "Fed in Print: Atlanta", "org": "Atlanta", "adapter": "fedinprint_rss", "url": "https://www.fedinprint.org/rss/atlanta.rss", "priority": 4, "stale_after_days": 365 },
+    { "id": "fip_chicago", "name": "Fed in Print: Chicago", "org": "Chicago", "adapter": "fedinprint_rss", "url": "https://www.fedinprint.org/rss/chicago.rss", "priority": 4, "stale_after_days": 365 },
+    { "id": "fip_stlouis", "name": "Fed in Print: St. Louis", "org": "St. Louis", "adapter": "fedinprint_rss", "url": "https://www.fedinprint.org/rss/stlouis.rss", "priority": 4, "stale_after_days": 120 },
+    { "id": "fip_minneapolis", "name": "Fed in Print: Minneapolis", "org": "Minneapolis", "adapter": "fedinprint_rss", "url": "https://www.fedinprint.org/rss/minneapolis.rss", "priority": 4, "stale_after_days": 120 },
+    { "id": "fip_kansascity", "name": "Fed in Print: Kansas City", "org": "Kansas City", "adapter": "fedinprint_rss", "url": "https://www.fedinprint.org/rss/kansascity.rss", "priority": 4, "stale_after_days": 365 },
+    { "id": "fip_dallas", "name": "Fed in Print: Dallas", "org": "Dallas", "adapter": "fedinprint_rss", "url": "https://www.fedinprint.org/rss/dallas.rss", "priority": 4, "stale_after_days": 120 },
+    { "id": "fip_sanfrancisco", "name": "Fed in Print: San Francisco", "org": "San Francisco", "adapter": "fedinprint_rss", "url": "https://www.fedinprint.org/rss/sanfrancisco.rss", "priority": 4, "stale_after_days": 120 }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_comment": "Roster drives speaker names, roles, and the FOMC participant strip. Update when appointments change. 'active': false keeps historical items labeled correctly but removes the person from the participant strip.",
+  "as_of": "2026-10-06",
+  "voter_year": 2026,
+  "verification": [
+    "Board leadership: CRS report R48233 (updated May 27, 2026) and Federal Reserve press release other20260522a (Warsh sworn in May 22, 2026).",
+    "2026 rotating voters: FOMC minutes, January 27-28, 2026 (federalreserve.gov/monetarypolicy/files/fomcminutes20260128.pdf).",
+    "Atlanta: Cheryl Venable interim president effective March 1, 2026 (atlantafed.org).",
+    "Powell: Chair through May 15, 2026; stated in May 2026 he would keep his governor seat. Confirm continued service before relying on this entry."
+  ],
+  "people": [
+    { "id": "warsh", "name": "Kevin M. Warsh", "surname": "Warsh", "org": "Board of Governors", "role": "Chair", "tier": "board", "voter": true, "active": true },
+    { "id": "jefferson", "name": "Philip N. Jefferson", "surname": "Jefferson", "org": "Board of Governors", "role": "Vice Chair", "tier": "board", "voter": true, "active": true },
+    { "id": "bowman", "name": "Michelle W. Bowman", "surname": "Bowman", "org": "Board of Governors", "role": "Vice Chair for Supervision", "tier": "board", "voter": true, "active": true },
+    { "id": "barr", "name": "Michael S. Barr", "surname": "Barr", "org": "Board of Governors", "role": "Governor", "tier": "board", "voter": true, "active": true },
+    { "id": "cook", "name": "Lisa D. Cook", "surname": "Cook", "org": "Board of Governors", "role": "Governor", "tier": "board", "voter": true, "active": true },
+    { "id": "waller", "name": "Christopher J. Waller", "surname": "Waller", "org": "Board of Governors", "role": "Governor", "tier": "board", "voter": true, "active": true },
+    { "id": "powell", "name": "Jerome H. Powell", "surname": "Powell", "org": "Board of Governors", "role": "Governor", "tier": "board", "voter": true, "active": true },
+    { "id": "miran", "name": "Stephen I. Miran", "surname": "Miran", "org": "Board of Governors", "role": "Former Governor", "tier": "board", "voter": false, "active": false },
+
+    { "id": "williams", "name": "John C. Williams", "surname": "Williams", "org": "New York", "role": "President; FOMC Vice Chair", "tier": "president", "voter": true, "active": true },
+    { "id": "collins", "name": "Susan M. Collins", "surname": "Collins", "org": "Boston", "role": "President", "tier": "president", "voter": false, "active": true },
+    { "id": "paulson", "name": "Anna L. Paulson", "surname": "Paulson", "org": "Philadelphia", "role": "President", "tier": "president", "voter": true, "active": true },
+    { "id": "hammack", "name": "Beth M. Hammack", "surname": "Hammack", "org": "Cleveland", "role": "President", "tier": "president", "voter": true, "active": true },
+    { "id": "barkin", "name": "Thomas I. Barkin", "surname": "Barkin", "org": "Richmond", "role": "President", "tier": "president", "voter": false, "active": true },
+    { "id": "venable", "name": "Cheryl Venable", "surname": "Venable", "org": "Atlanta", "role": "Interim President", "tier": "president", "voter": false, "active": true },
+    { "id": "goolsbee", "name": "Austan D. Goolsbee", "surname": "Goolsbee", "org": "Chicago", "role": "President", "tier": "president", "voter": false, "active": true },
+    { "id": "musalem", "name": "Alberto G. Musalem", "surname": "Musalem", "org": "St. Louis", "role": "President", "tier": "president", "voter": false, "active": true },
+    { "id": "kashkari", "name": "Neel Kashkari", "surname": "Kashkari", "org": "Minneapolis", "role": "President", "tier": "president", "voter": true, "active": true },
+    { "id": "schmid", "name": "Jeffrey R. Schmid", "surname": "Schmid", "org": "Kansas City", "role": "President", "tier": "president", "voter": false, "active": true },
+    { "id": "logan", "name": "Lorie K. Logan", "surname": "Logan", "org": "Dallas", "role": "President", "tier": "president", "voter": true, "active": true },
+    { "id": "daly", "name": "Mary C. Daly", "surname": "Daly", "org": "San Francisco", "role": "President", "tier": "president", "voter": false, "active": true },
+    { "id": "bostic", "name": "Raphael W. Bostic", "surname": "Bostic", "org": "Atlanta", "role": "Former President (retired Feb. 28, 2026)", "tier": "president", "voter": false, "active": false },
+
+    { "id": "perli", "name": "Roberto Perli", "surname": "Perli", "org": "New York", "role": "Markets Group", "tier": "official", "voter": false, "active": true }
+  ]
+}

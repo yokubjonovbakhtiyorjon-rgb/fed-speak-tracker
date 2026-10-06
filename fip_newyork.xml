@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:bibo="http://purl.org/ontology/bibo/">
+<channel>
+<title>Federal Reserve Bank of New York publications</title>
+<item><title>Unwavering Dedication</title><link>https://fedinprint.org/item/fednsp/103887</link>
+<description><![CDATA[Remarks at the University at Buffalo, Buffalo, New York.]]></description>
+<guid>https://fedinprint.org/item/fednsp/103887</guid><dc:creator>Williams, John C.</dc:creator><dc:date>2026-09-29</dc:date>
+<dc:subject>inflation; monetary policy; labor market; GDP growth; productivity; artificial intelligence (AI)</dc:subject><bibo:series>Speech</bibo:series></item>
+<item><title>Consumption, Savings, and Earnings Responses to Financial Windfalls</title><link>https://fedinprint.org/item/fednsr/103885</link>
+<description><![CDATA[We estimate the causal effects of a financial windfall on consumption.]]></description>
+<guid>https://fedinprint.org/item/fednsr/103885</guid><dc:creator>d'Astous, Philippe; Scholnick, Barry</dc:creator><dc:date>2026-10-01</dc:date><bibo:series>Staff Reports</bibo:series></item>
+<item><title>Economic Conditions in New York State</title><link>https://fedinprint.org/item/fednsp/103869</link>
+<description><![CDATA[Presentation for the NYBA Business of Banking Conference, delivered by Jaison Abel, Head of Microeconomics, Federal Reserve Bank of New York.]]></description>
+<guid>https://fedinprint.org/item/fednsp/103869</guid><dc:creator>Abel, Jaison R.</dc:creator><dc:date>2026-09-25</dc:date>
+<dc:subject>economic growth; unemployment; inflation; housing market; household finance; New York (State); Economic conditions - New York (State)</dc:subject><bibo:series>Speech</bibo:series></item>
+<item><title>Forging A Resilient Path</title><link>https://fedinprint.org/item/fednsp/103817</link>
+<description><![CDATA[Remarks at the Risk Live North America Conference, New York City.]]></description>
+<guid>https://fedinprint.org/item/fednsp/103817</guid><dc:creator>Nistor, Mihaela</dc:creator><dc:date>2026-09-24</dc:date>
+<dc:subject>operational risk; artificial intelligence (AI); Human Capital Risk; resilience</dc:subject><bibo:series>Speech</bibo:series></item>
+<item><title>Supplying Ample Reserves</title><link>https://fedinprint.org/item/fednsp/103806</link>
+<description><![CDATA[Remarks at 2026 U.S. Treasury Market Conference, Federal Reserve Bank of New York, New York City.]]></description>
+<guid>https://fedinprint.org/item/fednsp/103806</guid><dc:creator>Perli, Roberto</dc:creator><dc:date>2026-09-22</dc:date>
+<dc:subject>reserve management purchases (RMPs); ample reserves; money market conditions; Treasury bills</dc:subject><bibo:series>Speech</bibo:series></item>
+<item><title>Do You Remember?</title><link>https://fedinprint.org/item/fednsp/103804</link>
+<description><![CDATA[Remarks at the 2026 U.S. Treasury Market Conference, Federal Reserve Bank of New York, New York City.]]></description>
+<guid>https://fedinprint.org/item/fednsp/103804</guid><dc:creator>Williams, John C.</dc:creator><dc:date>2026-09-22</dc:date>
+<dc:subject>monetary policy implementation; ample reserves; market structure; interest rate control; Central clearing; repo markets</dc:subject><bibo:series>Speech</bibo:series></item>
+<item><title>Treasury Trading at the Close</title><link>https://fedinprint.org/item/fednls/103802</link>
+<description><![CDATA[In past work, we showed that trading in U.S. Treasury securities is becoming increasingly concentrated.]]></description>
+<guid>https://fedinprint.org/item/fednls/103802</guid><dc:creator>Shachar, Or; Dyer, Henry; Fleming, Michael J.</dc:creator><dc:date>2026-09-22</dc:date><bibo:series>Liberty Street Economics</bibo:series></item>
+</channel></rss>
