@@ -1,6 +1,6 @@
 {
   "_comment": "Source registry. priority: lower number wins when the same remarks appear in two sources. stale_after_days: health check flags a source whose newest item is older than this. Verification notes reflect checks made on 2026-10-06.",
-  "contact": "replace-with-your-email@example.com",
+  "contact": "yokubjonovbakhtiyorjon@gmail.com",
   "sources": [
     {
       "id": "board",
