@@ -1,5 +1,28 @@
 [
   {
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm",
+    "key": "https://federalreserve.gov/newsevents/speech/bowman20261006a.htm",
+    "title": "Modernizing the Regulatory and Supervisory Landscape",
+    "date": "2026-10-06",
+    "date_estimated": false,
+    "speaker_id": "bowman",
+    "speaker": "Michelle W. Bowman",
+    "role": "Vice Chair for Supervision",
+    "org": "Board of Governors",
+    "tier": "board",
+    "voter": true,
+    "type": "Speech",
+    "venue": "At the 2026 Community Banking Research Conference, sponsored by the Federal Reserve System, the Conference of State Bank Supervisors, and the Federal Deposit Insurance Corporation, St. Louis, Missouri",
+    "topics": [
+      "Banking and supervision"
+    ],
+    "source_id": "board",
+    "source_name": "Board of Governors: speeches and testimony",
+    "priority": 1,
+    "alt_links": [],
+    "first_seen": "2026-10-06T14:49:24.638810+00:00"
+  },
+  {
     "url": "https://www.dallasfed.org/news/speeches/logan/2026/lkl261002",
     "key": "https://dallasfed.org/news/speeches/logan/2026/lkl261002",
     "title": "Welcome remarks for the Fifth Annual Workshop on the Macroeconomic Implications of Migration",
