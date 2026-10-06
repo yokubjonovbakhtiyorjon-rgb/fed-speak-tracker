@@ -1,1 +1,192 @@
-[]
+[
+  {
+    "id": "board",
+    "name": "Board of Governors: speeches and testimony",
+    "url": "https://www.federalreserve.gov/feeds/speeches_and_testimony.xml",
+    "ok": true,
+    "parsed": 15,
+    "newest": "2026-10-01",
+    "stale": false,
+    "error": null
+  },
+  {
+    "id": "dallas_direct",
+    "name": "Dallas Fed: president's speeches",
+    "url": "https://www.dallasfed.org/rss/speeches",
+    "ok": true,
+    "parsed": 100,
+    "newest": "2026-10-02",
+    "stale": false,
+    "error": null
+  },
+  {
+    "id": "atlanta_direct",
+    "name": "Atlanta Fed: speeches",
+    "url": "https://www.atlantafed.org/rss/speechindex",
+    "ok": true,
+    "parsed": 15,
+    "newest": "2026-02-20",
+    "stale": true,
+    "error": null
+  },
+  {
+    "id": "boston_direct",
+    "name": "Boston Fed: speeches",
+    "url": "https://www.bostonfed.org/feeds/rss_speeches.xml",
+    "ok": true,
+    "parsed": 50,
+    "newest": "2024-11-15",
+    "stale": true,
+    "error": null
+  },
+  {
+    "id": "chicago_direct",
+    "name": "Chicago Fed: president's speaking engagements",
+    "url": "https://www.chicagofed.org/utilities/about-us/office-of-the-president/office-of-the-president-speaking",
+    "ok": true,
+    "parsed": 38,
+    "newest": "2026-07-14",
+    "stale": false,
+    "error": null
+  },
+  {
+    "id": "kansascity_direct",
+    "name": "Kansas City Fed: speeches",
+    "url": "https://www.kansascityfed.org/speeches/",
+    "ok": true,
+    "parsed": 3,
+    "newest": null,
+    "stale": false,
+    "error": null
+  },
+  {
+    "id": "fip_board",
+    "name": "Fed in Print: Board",
+    "url": "https://www.fedinprint.org/rss/board.rss",
+    "ok": true,
+    "parsed": 10,
+    "newest": "2026-10-01",
+    "stale": false,
+    "error": null
+  },
+  {
+    "id": "fip_boston",
+    "name": "Fed in Print: Boston",
+    "url": "https://www.fedinprint.org/rss/boston.rss",
+    "ok": true,
+    "parsed": 6,
+    "newest": "2026-05-13",
+    "stale": true,
+    "error": null
+  },
+  {
+    "id": "fip_newyork",
+    "name": "Fed in Print: New York",
+    "url": "https://www.fedinprint.org/rss/newyork.rss",
+    "ok": true,
+    "parsed": 5,
+    "newest": "2026-09-29",
+    "stale": false,
+    "error": null
+  },
+  {
+    "id": "fip_philadelphia",
+    "name": "Fed in Print: Philadelphia",
+    "url": "https://www.fedinprint.org/rss/philadelphia.rss",
+    "ok": true,
+    "parsed": 1,
+    "newest": "2026-09-24",
+    "stale": false,
+    "error": null
+  },
+  {
+    "id": "fip_cleveland",
+    "name": "Fed in Print: Cleveland",
+    "url": "https://www.fedinprint.org/rss/cleveland.rss",
+    "ok": true,
+    "parsed": 1,
+    "newest": "2026-07-31",
+    "stale": false,
+    "error": null
+  },
+  {
+    "id": "fip_richmond",
+    "name": "Fed in Print: Richmond",
+    "url": "https://www.fedinprint.org/rss/richmond.rss",
+    "ok": true,
+    "parsed": 2,
+    "newest": "2026-09-22",
+    "stale": false,
+    "error": null
+  },
+  {
+    "id": "fip_atlanta",
+    "name": "Fed in Print: Atlanta",
+    "url": "https://www.fedinprint.org/rss/atlanta.rss",
+    "ok": true,
+    "parsed": 0,
+    "newest": null,
+    "stale": true,
+    "error": null
+  },
+  {
+    "id": "fip_chicago",
+    "name": "Fed in Print: Chicago",
+    "url": "https://www.fedinprint.org/rss/chicago.rss",
+    "ok": true,
+    "parsed": 0,
+    "newest": null,
+    "stale": true,
+    "error": null
+  },
+  {
+    "id": "fip_stlouis",
+    "name": "Fed in Print: St. Louis",
+    "url": "https://www.fedinprint.org/rss/stlouis.rss",
+    "ok": true,
+    "parsed": 1,
+    "newest": "2026-09-29",
+    "stale": false,
+    "error": null
+  },
+  {
+    "id": "fip_minneapolis",
+    "name": "Fed in Print: Minneapolis",
+    "url": "https://www.fedinprint.org/rss/minneapolis.rss",
+    "ok": true,
+    "parsed": 0,
+    "newest": null,
+    "stale": true,
+    "error": null
+  },
+  {
+    "id": "fip_kansascity",
+    "name": "Fed in Print: Kansas City",
+    "url": "https://www.fedinprint.org/rss/kansascity.rss",
+    "ok": true,
+    "parsed": 0,
+    "newest": null,
+    "stale": true,
+    "error": null
+  },
+  {
+    "id": "fip_dallas",
+    "name": "Fed in Print: Dallas",
+    "url": "https://www.fedinprint.org/rss/dallas.rss",
+    "ok": true,
+    "parsed": 3,
+    "newest": "2026-10-02",
+    "stale": false,
+    "error": null
+  },
+  {
+    "id": "fip_sanfrancisco",
+    "name": "Fed in Print: San Francisco",
+    "url": "https://www.fedinprint.org/rss/sanfrancisco.rss",
+    "ok": true,
+    "parsed": 0,
+    "newest": null,
+    "stale": true,
+    "error": null
+  }
+]
