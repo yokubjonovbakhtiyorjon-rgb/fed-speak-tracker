@@ -512,7 +512,7 @@ def run(offline_dir: Path | None, render_only: bool) -> int:
                 recs = adapt_html_links(raw, src, roster, rules, today)
             else:
                 recs = ADAPTERS[src["adapter"]](raw, src, roster, rules)
-            recs = [r for r in recs if r["   .lower().startswith(("https://", "http://"))"]]
+            recs = [r for r in recs if r["url"].lower().startswith(("https://", "http://"))]
             fresh.extend(recs)
             dated = sorted((r["date"] for r in recs if r["date"] and not r["date_estimated"]), reverse=True)
             entry.update(ok=True, parsed=len(recs), newest=dated[0] if dated else None)
