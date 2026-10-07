@@ -1,5 +1,28 @@
 [
   {
+    "url": "https://fedinprint.org/item/fedlps/103892",
+    "key": "https://fedinprint.org/item/fedlps/103892",
+    "title": "Introductory Remarks: 2026 Community Banking Research Conference",
+    "date": "2026-10-06",
+    "date_estimated": false,
+    "speaker_id": "musalem",
+    "speaker": "Alberto G. Musalem",
+    "role": "President",
+    "org": "St. Louis",
+    "tier": "president",
+    "voter": false,
+    "type": "Speech",
+    "venue": "St. Louis Fed President Alberto Musalem gave remarks on Day 1 of the 14th annual Community Banking Research Conference. He introduced Federal Reserve Vice Chair for Supervision Michelle Bowman. The conference, which is held at the Federal Reserve Bank of St. Louis, was co-sponsored by the Federal Reserve System, Conference of State Bank Supervisors (CSBS) and Federal Deposit Insurance Corp. (FDIC).",
+    "topics": [
+      "Banking and supervision"
+    ],
+    "source_id": "fip_stlouis",
+    "source_name": "Fed in Print: St. Louis",
+    "priority": 4,
+    "alt_links": [],
+    "first_seen": "2026-10-07T20:48:27.091283+00:00"
+  },
+  {
     "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261006a.htm",
     "key": "https://federalreserve.gov/newsevents/speech/bowman20261006a.htm",
     "title": "Modernizing the Regulatory and Supervisory Landscape",
