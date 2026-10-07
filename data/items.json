@@ -473,7 +473,12 @@
     "source_id": "board",
     "source_name": "Board of Governors: speeches and testimony",
     "priority": 1,
-    "alt_links": [],
+    "alt_links": [
+      {
+        "url": "https://fedinprint.org/item/fedgsq/103811",
+        "source": "Fed in Print: Board"
+      }
+    ],
     "first_seen": "2026-10-06T13:40:42.189695+00:00"
   },
   {
