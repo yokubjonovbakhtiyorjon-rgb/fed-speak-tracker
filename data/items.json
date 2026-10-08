@@ -1,5 +1,26 @@
 [
   {
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
+    "key": "https://federalreserve.gov/newsevents/speech/waller20261008a.htm",
+    "title": "The Signaling Value of the Summary of Economic Projections",
+    "date": "2026-10-08",
+    "date_estimated": false,
+    "speaker_id": "waller",
+    "speaker": "Christopher J. Waller",
+    "role": "Governor",
+    "org": "Board of Governors",
+    "tier": "board",
+    "voter": true,
+    "type": "Speech",
+    "venue": "At the Istanbul Economic Forum, Central Bank of the Republic of Türkiye, Istanbul, Türkiye",
+    "topics": [],
+    "source_id": "board",
+    "source_name": "Board of Governors: speeches and testimony",
+    "priority": 1,
+    "alt_links": [],
+    "first_seen": "2026-10-08T11:21:24.378818+00:00"
+  },
+  {
     "url": "https://fedinprint.org/item/fedlps/103892",
     "key": "https://fedinprint.org/item/fedlps/103892",
     "title": "Introductory Remarks: 2026 Community Banking Research Conference",
