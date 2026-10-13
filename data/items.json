@@ -1,5 +1,28 @@
 [
   {
+    "url": "https://fedinprint.org/item/fedcsp/103920",
+    "key": "https://fedinprint.org/item/fedcsp/103920",
+    "title": "Trimming the Sails: Communicating My Reaction Function",
+    "date": "2026-10-12",
+    "date_estimated": false,
+    "speaker_id": "hammack",
+    "speaker": "Beth M. Hammack",
+    "role": "President",
+    "org": "Cleveland",
+    "tier": "president",
+    "voter": true,
+    "type": "Speech",
+    "venue": "Beth Hammack, president and CEO, spoke at the 68th National Association of Business Economics annual meeting about monetary policy and communicating her reaction function.",
+    "topics": [
+      "Monetary policy"
+    ],
+    "source_id": "fip_cleveland",
+    "source_name": "Fed in Print: Cleveland",
+    "priority": 4,
+    "alt_links": [],
+    "first_seen": "2026-10-13T00:46:44.386391+00:00"
+  },
+  {
     "url": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
     "key": "https://federalreserve.gov/newsevents/speech/waller20261008a.htm",
     "title": "The Signaling Value of the Summary of Economic Projections",
