@@ -1,5 +1,28 @@
 [
   {
+    "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
+    "key": "https://federalreserve.gov/newsevents/speech/bowman20261014a.htm",
+    "title": "Supervisory Modernization After Silicon Valley Bank",
+    "date": "2026-10-14",
+    "date_estimated": false,
+    "speaker_id": "bowman",
+    "speaker": "Michelle W. Bowman",
+    "role": "Vice Chair for Supervision",
+    "org": "Board of Governors",
+    "tier": "board",
+    "voter": true,
+    "type": "Speech",
+    "venue": "At the Bangkok Economic Festival, Reinventing Bretton Woods Committee, Bangkok, Thailand",
+    "topics": [
+      "Banking and supervision"
+    ],
+    "source_id": "board",
+    "source_name": "Board of Governors: speeches and testimony",
+    "priority": 1,
+    "alt_links": [],
+    "first_seen": "2026-10-15T06:58:59.465173+00:00"
+  },
+  {
     "url": "https://fedinprint.org/item/fedcsp/103920",
     "key": "https://fedinprint.org/item/fedcsp/103920",
     "title": "Trimming the Sails: Communicating My Reaction Function",
