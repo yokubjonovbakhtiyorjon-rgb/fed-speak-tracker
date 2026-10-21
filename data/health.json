@@ -64,7 +64,7 @@
     "name": "Fed in Print: Board",
     "url": "https://www.fedinprint.org/rss/board.rss",
     "ok": true,
-    "parsed": 8,
+    "parsed": 7,
     "newest": "2026-10-14",
     "stale": false,
     "error": null
@@ -104,7 +104,7 @@
     "name": "Fed in Print: Cleveland",
     "url": "https://www.fedinprint.org/rss/cleveland.rss",
     "ok": true,
-    "parsed": 2,
+    "parsed": 1,
     "newest": "2026-10-12",
     "stale": false,
     "error": null
