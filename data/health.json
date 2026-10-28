@@ -63,130 +63,130 @@
     "id": "fip_board",
     "name": "Fed in Print: Board",
     "url": "https://www.fedinprint.org/rss/board.rss",
-    "ok": false,
-    "parsed": 0,
-    "newest": null,
+    "ok": true,
+    "parsed": 7,
+    "newest": "2026-10-14",
     "stale": false,
-    "error": "RuntimeError: fetch failed for https://www.fedinprint.org/rss/board.rss: HTTP Error 502: Bad Gateway"
+    "error": null
   },
   {
     "id": "fip_boston",
     "name": "Fed in Print: Boston",
     "url": "https://www.fedinprint.org/rss/boston.rss",
-    "ok": false,
-    "parsed": 0,
-    "newest": null,
-    "stale": false,
-    "error": "RuntimeError: fetch failed for https://www.fedinprint.org/rss/boston.rss: HTTP Error 502: Bad Gateway"
+    "ok": true,
+    "parsed": 6,
+    "newest": "2026-05-13",
+    "stale": true,
+    "error": null
   },
   {
     "id": "fip_newyork",
     "name": "Fed in Print: New York",
     "url": "https://www.fedinprint.org/rss/newyork.rss",
-    "ok": false,
-    "parsed": 0,
-    "newest": null,
+    "ok": true,
+    "parsed": 5,
+    "newest": "2026-09-29",
     "stale": false,
-    "error": "RuntimeError: fetch failed for https://www.fedinprint.org/rss/newyork.rss: HTTP Error 502: Bad Gateway"
+    "error": null
   },
   {
     "id": "fip_philadelphia",
     "name": "Fed in Print: Philadelphia",
     "url": "https://www.fedinprint.org/rss/philadelphia.rss",
-    "ok": false,
-    "parsed": 0,
-    "newest": null,
+    "ok": true,
+    "parsed": 1,
+    "newest": "2026-09-24",
     "stale": false,
-    "error": "RuntimeError: fetch failed for https://www.fedinprint.org/rss/philadelphia.rss: HTTP Error 502: Bad Gateway"
+    "error": null
   },
   {
     "id": "fip_cleveland",
     "name": "Fed in Print: Cleveland",
     "url": "https://www.fedinprint.org/rss/cleveland.rss",
-    "ok": false,
-    "parsed": 0,
-    "newest": null,
+    "ok": true,
+    "parsed": 1,
+    "newest": "2026-10-12",
     "stale": false,
-    "error": "RuntimeError: fetch failed for https://www.fedinprint.org/rss/cleveland.rss: HTTP Error 502: Bad Gateway"
+    "error": null
   },
   {
     "id": "fip_richmond",
     "name": "Fed in Print: Richmond",
     "url": "https://www.fedinprint.org/rss/richmond.rss",
-    "ok": false,
-    "parsed": 0,
-    "newest": null,
+    "ok": true,
+    "parsed": 2,
+    "newest": "2026-09-22",
     "stale": false,
-    "error": "RuntimeError: fetch failed for https://www.fedinprint.org/rss/richmond.rss: HTTP Error 502: Bad Gateway"
+    "error": null
   },
   {
     "id": "fip_atlanta",
     "name": "Fed in Print: Atlanta",
     "url": "https://www.fedinprint.org/rss/atlanta.rss",
-    "ok": false,
+    "ok": true,
     "parsed": 0,
     "newest": null,
-    "stale": false,
-    "error": "RuntimeError: fetch failed for https://www.fedinprint.org/rss/atlanta.rss: HTTP Error 502: Bad Gateway"
+    "stale": true,
+    "error": null
   },
   {
     "id": "fip_chicago",
     "name": "Fed in Print: Chicago",
     "url": "https://www.fedinprint.org/rss/chicago.rss",
-    "ok": false,
+    "ok": true,
     "parsed": 0,
     "newest": null,
-    "stale": false,
-    "error": "RuntimeError: fetch failed for https://www.fedinprint.org/rss/chicago.rss: HTTP Error 502: Bad Gateway"
+    "stale": true,
+    "error": null
   },
   {
     "id": "fip_stlouis",
     "name": "Fed in Print: St. Louis",
     "url": "https://www.fedinprint.org/rss/stlouis.rss",
-    "ok": false,
-    "parsed": 0,
-    "newest": null,
+    "ok": true,
+    "parsed": 2,
+    "newest": "2026-10-06",
     "stale": false,
-    "error": "RuntimeError: fetch failed for https://www.fedinprint.org/rss/stlouis.rss: HTTP Error 502: Bad Gateway"
+    "error": null
   },
   {
     "id": "fip_minneapolis",
     "name": "Fed in Print: Minneapolis",
     "url": "https://www.fedinprint.org/rss/minneapolis.rss",
-    "ok": false,
+    "ok": true,
     "parsed": 0,
     "newest": null,
-    "stale": false,
-    "error": "RuntimeError: fetch failed for https://www.fedinprint.org/rss/minneapolis.rss: HTTP Error 502: Bad Gateway"
+    "stale": true,
+    "error": null
   },
   {
     "id": "fip_kansascity",
     "name": "Fed in Print: Kansas City",
     "url": "https://www.fedinprint.org/rss/kansascity.rss",
-    "ok": false,
+    "ok": true,
     "parsed": 0,
     "newest": null,
-    "stale": false,
-    "error": "RuntimeError: fetch failed for https://www.fedinprint.org/rss/kansascity.rss: HTTP Error 502: Bad Gateway"
+    "stale": true,
+    "error": null
   },
   {
     "id": "fip_dallas",
     "name": "Fed in Print: Dallas",
     "url": "https://www.fedinprint.org/rss/dallas.rss",
-    "ok": false,
-    "parsed": 0,
-    "newest": null,
+    "ok": true,
+    "parsed": 3,
+    "newest": "2026-10-02",
     "stale": false,
-    "error": "RuntimeError: fetch failed for https://www.fedinprint.org/rss/dallas.rss: HTTP Error 502: Bad Gateway"
+    "error": null
   },
   {
     "id": "fip_sanfrancisco",
     "name": "Fed in Print: San Francisco",
     "url": "https://www.fedinprint.org/rss/sanfrancisco.rss",
-    "ok": false,
+    "ok": true,
     "parsed": 0,
     "newest": null,
-    "stale": false,
-    "error": "RuntimeError: fetch failed for https://www.fedinprint.org/rss/sanfrancisco.rss: HTTP Error 502: Bad Gateway"
+    "stale": true,
+    "error": null
   }
 ]
