@@ -107,6 +107,31 @@
     "first_seen": "2026-10-16T18:00:21.346097+00:00"
   },
   {
+    "url": "https://fedinprint.org/item/fedlps/103995",
+    "key": "https://fedinprint.org/item/fedlps/103995",
+    "title": "Remarks on the U.S. Economy and Monetary Policy",
+    "date": "2026-10-30",
+    "date_estimated": false,
+    "speaker_id": "musalem",
+    "speaker": "Alberto G. Musalem",
+    "role": "President",
+    "org": "St. Louis",
+    "tier": "president",
+    "voter": false,
+    "type": "Discussion",
+    "venue": "St. Louis Fed President Alberto Musalem outlined his latest views on the U.S. economy and monetary policy during his keynote address at a Shadow Open Market Committee meeting in New York. Following his speech, “Remarks on the U.S. Economy and Monetary Policy,” he participated in a Q&A moderated by Jeffrey Lacker.",
+    "topics": [
+      "Monetary policy",
+      "Inflation",
+      "Labor market"
+    ],
+    "source_id": "fip_stlouis",
+    "source_name": "Fed in Print: St. Louis",
+    "priority": 4,
+    "alt_links": [],
+    "first_seen": "2026-10-30T18:43:40.149488+00:00"
+  },
+  {
     "url": "https://www.dallasfed.org/news/speeches/logan/2026/lkl261030",
     "key": "https://dallasfed.org/news/speeches/logan/2026/lkl261030",
     "title": "Remarks to Davidson College students",
