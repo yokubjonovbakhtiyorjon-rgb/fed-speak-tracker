@@ -149,7 +149,12 @@
     "source_id": "dallas_direct",
     "source_name": "Dallas Fed: president's speeches",
     "priority": 2,
-    "alt_links": [],
+    "alt_links": [
+      {
+        "url": "https://fedinprint.org/item/feddsp/103997",
+        "source": "Fed in Print: Dallas"
+      }
+    ],
     "first_seen": "2026-10-30T17:40:01.424034+00:00"
   },
   {
