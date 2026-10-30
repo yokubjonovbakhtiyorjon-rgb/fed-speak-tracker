@@ -15,7 +15,7 @@
     "url": "https://www.dallasfed.org/rss/speeches",
     "ok": true,
     "parsed": 100,
-    "newest": "2026-10-02",
+    "newest": "2026-10-30",
     "stale": false,
     "error": null
   },
@@ -44,8 +44,8 @@
     "name": "Chicago Fed: president's speaking engagements",
     "url": "https://www.chicagofed.org/utilities/about-us/office-of-the-president/office-of-the-president-speaking",
     "ok": true,
-    "parsed": 41,
-    "newest": "2026-11-19",
+    "parsed": 43,
+    "newest": "2026-12-11",
     "stale": false,
     "error": null
   },
@@ -64,7 +64,7 @@
     "name": "Fed in Print: Board",
     "url": "https://www.fedinprint.org/rss/board.rss",
     "ok": true,
-    "parsed": 7,
+    "parsed": 6,
     "newest": "2026-10-14",
     "stale": false,
     "error": null

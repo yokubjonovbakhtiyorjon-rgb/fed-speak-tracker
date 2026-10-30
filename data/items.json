@@ -1,5 +1,28 @@
 [
   {
+    "url": "https://www.chicagofed.org/publications/speeches/2026/dec-11-chicago-economic-outlook-symposium",
+    "key": "https://chicagofed.org/publications/speeches/2026/dec-11-chicago-economic-outlook-symposium",
+    "title": "Chicago Fed Annual Economic Outlook Symposium",
+    "date": "2026-12-11",
+    "date_estimated": false,
+    "speaker_id": "goolsbee",
+    "speaker": "Austan D. Goolsbee",
+    "role": "President",
+    "org": "Chicago",
+    "tier": "president",
+    "voter": false,
+    "type": "Speech",
+    "venue": "",
+    "topics": [
+      "Monetary policy"
+    ],
+    "source_id": "chicago_direct",
+    "source_name": "Chicago Fed: president's speaking engagements",
+    "priority": 3,
+    "alt_links": [],
+    "first_seen": "2026-10-30T17:40:01.424034+00:00"
+  },
+  {
     "url": "https://www.chicagofed.org/publications/speeches/2026/nov-19-economic-club-indiana",
     "key": "https://chicagofed.org/publications/speeches/2026/nov-19-economic-club-indiana",
     "title": "Economic Club of Indiana November Luncheon",
@@ -19,6 +42,27 @@
     "priority": 3,
     "alt_links": [],
     "first_seen": "2026-10-23T18:34:27.855332+00:00"
+  },
+  {
+    "url": "https://www.chicagofed.org/publications/speeches/2026/nov-12-yahoo-finance-invest",
+    "key": "https://chicagofed.org/publications/speeches/2026/nov-12-yahoo-finance-invest",
+    "title": "Yahoo Finance Invest 2026",
+    "date": "2026-11-12",
+    "date_estimated": false,
+    "speaker_id": "goolsbee",
+    "speaker": "Austan D. Goolsbee",
+    "role": "President",
+    "org": "Chicago",
+    "tier": "president",
+    "voter": false,
+    "type": "Speech",
+    "venue": "",
+    "topics": [],
+    "source_id": "chicago_direct",
+    "source_name": "Chicago Fed: president's speaking engagements",
+    "priority": 3,
+    "alt_links": [],
+    "first_seen": "2026-10-30T17:40:01.424034+00:00"
   },
   {
     "url": "https://www.chicagofed.org/publications/speeches/2026/nov-9-leadership-greater-chicago",
@@ -61,6 +105,27 @@
     "priority": 3,
     "alt_links": [],
     "first_seen": "2026-10-16T18:00:21.346097+00:00"
+  },
+  {
+    "url": "https://www.dallasfed.org/news/speeches/logan/2026/lkl261030",
+    "key": "https://dallasfed.org/news/speeches/logan/2026/lkl261030",
+    "title": "Remarks to Davidson College students",
+    "date": "2026-10-30",
+    "date_estimated": false,
+    "speaker_id": "logan",
+    "speaker": "Lorie K. Logan",
+    "role": "President",
+    "org": "Dallas",
+    "tier": "president",
+    "voter": true,
+    "type": "Speech",
+    "venue": "Dallas Fed President Lorie Logan delivered these remarks on a visit to Davidson College.",
+    "topics": [],
+    "source_id": "dallas_direct",
+    "source_name": "Dallas Fed: president's speeches",
+    "priority": 2,
+    "alt_links": [],
+    "first_seen": "2026-10-30T17:40:01.424034+00:00"
   },
   {
     "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261014a.htm",
