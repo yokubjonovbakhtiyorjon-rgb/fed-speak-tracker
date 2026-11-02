@@ -86,6 +86,27 @@
     "first_seen": "2026-10-16T18:00:21.346097+00:00"
   },
   {
+    "url": "https://www.dallasfed.org/news/speeches/speeches-leaders/2026/261102ssw",
+    "key": "https://dallasfed.org/news/speeches/speeches-leaders/2026/261102ssw",
+    "title": "Innovation in the relationships between central banks and central counterparties",
+    "date": "2026-11-02",
+    "date_estimated": false,
+    "speaker_id": "logan",
+    "speaker": "Lorie K. Logan",
+    "role": "President",
+    "org": "Dallas",
+    "tier": "president",
+    "voter": true,
+    "type": "Speech",
+    "venue": "Remarks delivered by Sam Schulhofer-Wohl at the Federal Reserve Bank of Chicago Financial Markets Group Fall Conference.",
+    "topics": [],
+    "source_id": "dallas_direct",
+    "source_name": "Dallas Fed: president's speeches",
+    "priority": 2,
+    "alt_links": [],
+    "first_seen": "2026-11-02T23:14:40.120843+00:00"
+  },
+  {
     "url": "https://www.chicagofed.org/publications/speeches/2026/nov-2-financial-markets-group",
     "key": "https://chicagofed.org/publications/speeches/2026/nov-2-financial-markets-group",
     "title": "Financial Markets Group Fall Conference",
