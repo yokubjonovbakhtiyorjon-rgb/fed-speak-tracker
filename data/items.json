@@ -86,6 +86,30 @@
     "first_seen": "2026-10-16T18:00:21.346097+00:00"
   },
   {
+    "url": "https://fedinprint.org/item/fedlps/104023",
+    "key": "https://fedinprint.org/item/fedlps/104023",
+    "title": "Your Fed: Decentralized by Design",
+    "date": "2026-11-06",
+    "date_estimated": false,
+    "speaker_id": "musalem",
+    "speaker": "Alberto G. Musalem",
+    "role": "President",
+    "org": "St. Louis",
+    "tier": "president",
+    "voter": false,
+    "type": "Discussion",
+    "venue": "What's your role in America's central bank? St. Louis Fed President Alberto G. Musalem detailed his views on the importance of the Federal Reserve's regional structure and the role the community plays in our work. Following his speech, \"Your Fed: Decentralized by Design,\" he participated in a Q&A session moderated by John Kemper, president and CEO of Commerce Bancshares Inc. The event was organized by Greater St. Louis Inc. and held at the Saint Louis Art Museum.",
+    "topics": [
+      "Monetary policy",
+      "Regional economy"
+    ],
+    "source_id": "fip_stlouis",
+    "source_name": "Fed in Print: St. Louis",
+    "priority": 4,
+    "alt_links": [],
+    "first_seen": "2026-11-06T17:53:07.287716+00:00"
+  },
+  {
     "url": "https://www.dallasfed.org/news/speeches/speeches-leaders/2026/261102ssw",
     "key": "https://dallasfed.org/news/speeches/speeches-leaders/2026/261102ssw",
     "title": "Innovation in the relationships between central banks and central counterparties",
