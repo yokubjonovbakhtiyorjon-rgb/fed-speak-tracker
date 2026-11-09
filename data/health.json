@@ -84,7 +84,7 @@
     "name": "Fed in Print: New York",
     "url": "https://www.fedinprint.org/rss/newyork.rss",
     "ok": true,
-    "parsed": 5,
+    "parsed": 4,
     "newest": "2026-09-29",
     "stale": false,
     "error": null
@@ -104,8 +104,8 @@
     "name": "Fed in Print: Cleveland",
     "url": "https://www.fedinprint.org/rss/cleveland.rss",
     "ok": true,
-    "parsed": 1,
-    "newest": "2026-10-12",
+    "parsed": 2,
+    "newest": "2026-11-05",
     "stale": false,
     "error": null
   },
@@ -174,8 +174,8 @@
     "name": "Fed in Print: Dallas",
     "url": "https://www.fedinprint.org/rss/dallas.rss",
     "ok": true,
-    "parsed": 4,
-    "newest": "2026-10-30",
+    "parsed": 5,
+    "newest": "2026-11-02",
     "stale": false,
     "error": null
   },
