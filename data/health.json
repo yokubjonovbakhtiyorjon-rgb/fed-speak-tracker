@@ -5,7 +5,7 @@
     "url": "https://www.federalreserve.gov/feeds/speeches_and_testimony.xml",
     "ok": true,
     "parsed": 15,
-    "newest": "2026-10-14",
+    "newest": "2026-11-10",
     "stale": false,
     "error": null
   },
@@ -15,7 +15,7 @@
     "url": "https://www.dallasfed.org/rss/speeches",
     "ok": true,
     "parsed": 100,
-    "newest": "2026-11-02",
+    "newest": "2026-11-10",
     "stale": false,
     "error": null
   },

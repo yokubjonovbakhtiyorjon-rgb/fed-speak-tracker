@@ -65,6 +65,53 @@
     "first_seen": "2026-10-30T17:40:01.424034+00:00"
   },
   {
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+    "key": "https://federalreserve.gov/newsevents/speech/waller20261110a.htm",
+    "title": "The Economic Outlook and Some Thoughts on Labor Market Dynamism",
+    "date": "2026-11-10",
+    "date_estimated": false,
+    "speaker_id": "waller",
+    "speaker": "Christopher J. Waller",
+    "role": "Governor",
+    "org": "Board of Governors",
+    "tier": "board",
+    "voter": true,
+    "type": "Speech",
+    "venue": "At the Bank of England Watchers Conference King’s Business School and Money, Macro and Finance Society, London, United Kingdom",
+    "topics": [
+      "Monetary policy",
+      "Labor market"
+    ],
+    "source_id": "board",
+    "source_name": "Board of Governors: speeches and testimony",
+    "priority": 1,
+    "alt_links": [],
+    "first_seen": "2026-11-10T18:36:16.507788+00:00"
+  },
+  {
+    "url": "https://www.dallasfed.org/news/speeches/logan/2026/lkl261110",
+    "key": "https://dallasfed.org/news/speeches/logan/2026/lkl261110",
+    "title": "Economic and monetary policy outlook",
+    "date": "2026-11-10",
+    "date_estimated": false,
+    "speaker_id": "logan",
+    "speaker": "Lorie K. Logan",
+    "role": "President",
+    "org": "Dallas",
+    "tier": "president",
+    "voter": true,
+    "type": "Speech",
+    "venue": "Remarks delivered by Dallas Fed President Lorie Logan at the 11th joint energy conference hosted by the Federal Reserve Banks of Dallas and Kansas City.",
+    "topics": [
+      "Monetary policy"
+    ],
+    "source_id": "dallas_direct",
+    "source_name": "Dallas Fed: president's speeches",
+    "priority": 2,
+    "alt_links": [],
+    "first_seen": "2026-11-10T18:36:16.507788+00:00"
+  },
+  {
     "url": "https://www.chicagofed.org/publications/speeches/2026/nov-9-leadership-greater-chicago",
     "key": "https://chicagofed.org/publications/speeches/2026/nov-9-leadership-greater-chicago",
     "title": "Leadership Greater Chicago | Economics: Are We Ready for Tomorrow?",
