@@ -88,6 +88,31 @@
     "first_seen": "2026-10-30T17:40:01.424034+00:00"
   },
   {
+    "url": "https://fedinprint.org/item/fedpsp/104053",
+    "key": "https://fedinprint.org/item/fedpsp/104053",
+    "title": "Economic Outlook",
+    "date": "2026-11-10",
+    "date_estimated": false,
+    "speaker_id": "paulson",
+    "speaker": "Anna L. Paulson",
+    "role": "President",
+    "org": "Philadelphia",
+    "tier": "president",
+    "voter": true,
+    "type": "Speech",
+    "venue": "In remarks delivered to the Philadelphia Fed’s 81st Annual Field Meeting Capstone event this evening, President and CEO Anna Paulson shared her latest economic outlook with community bankers from across the Third District. Her speech focused on how the latest economic trends and data are shaping her approach to monetary policy",
+    "topics": [
+      "Monetary policy",
+      "Banking and supervision",
+      "Regional economy"
+    ],
+    "source_id": "fip_philadelphia",
+    "source_name": "Fed in Print: Philadelphia",
+    "priority": 4,
+    "alt_links": [],
+    "first_seen": "2026-11-12T19:56:36.441894+00:00"
+  },
+  {
     "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261110a.htm",
     "key": "https://federalreserve.gov/newsevents/speech/bowman20261110a.htm",
     "title": "The U.S. Economy and Considerations for Monetary Policy",
