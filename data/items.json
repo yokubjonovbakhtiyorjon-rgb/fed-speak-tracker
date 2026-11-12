@@ -44,6 +44,29 @@
     "first_seen": "2026-10-23T18:34:27.855332+00:00"
   },
   {
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
+    "key": "https://federalreserve.gov/newsevents/speech/barr20261112a.htm",
+    "title": "American Inequality and the Future of AI",
+    "date": "2026-11-12",
+    "date_estimated": false,
+    "speaker_id": "barr",
+    "speaker": "Michael S. Barr",
+    "role": "Governor",
+    "org": "Board of Governors",
+    "tier": "board",
+    "voter": true,
+    "type": "Speech",
+    "venue": "At Yale University, New Haven, Connecticut",
+    "topics": [
+      "AI and productivity"
+    ],
+    "source_id": "board",
+    "source_name": "Board of Governors: speeches and testimony",
+    "priority": 1,
+    "alt_links": [],
+    "first_seen": "2026-11-12T18:47:52.920835+00:00"
+  },
+  {
     "url": "https://www.chicagofed.org/publications/speeches/2026/nov-12-yahoo-finance-invest",
     "key": "https://chicagofed.org/publications/speeches/2026/nov-12-yahoo-finance-invest",
     "title": "Yahoo Finance Invest 2026",

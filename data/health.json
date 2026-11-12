@@ -5,7 +5,7 @@
     "url": "https://www.federalreserve.gov/feeds/speeches_and_testimony.xml",
     "ok": true,
     "parsed": 15,
-    "newest": "2026-11-10",
+    "newest": "2026-11-12",
     "stale": false,
     "error": null
   },
@@ -54,7 +54,7 @@
     "name": "Kansas City Fed: speeches",
     "url": "https://www.kansascityfed.org/speeches/",
     "ok": true,
-    "parsed": 3,
+    "parsed": 2,
     "newest": null,
     "stale": false,
     "error": null
