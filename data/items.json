@@ -84,7 +84,12 @@
     "source_id": "board",
     "source_name": "Board of Governors: speeches and testimony",
     "priority": 1,
-    "alt_links": [],
+    "alt_links": [
+      {
+        "url": "https://fedinprint.org/item/fedgsq/104059",
+        "source": "Fed in Print: Board"
+      }
+    ],
     "first_seen": "2026-11-12T18:47:52.920835+00:00"
   },
   {
@@ -154,7 +159,12 @@
     "source_id": "board",
     "source_name": "Board of Governors: speeches and testimony",
     "priority": 1,
-    "alt_links": [],
+    "alt_links": [
+      {
+        "url": "https://fedinprint.org/item/fedgsq/104058",
+        "source": "Fed in Print: Board"
+      }
+    ],
     "first_seen": "2026-11-10T23:41:28.010528+00:00"
   },
   {
@@ -178,7 +188,12 @@
     "source_id": "board",
     "source_name": "Board of Governors: speeches and testimony",
     "priority": 1,
-    "alt_links": [],
+    "alt_links": [
+      {
+        "url": "https://fedinprint.org/item/fedgsq/104057",
+        "source": "Fed in Print: Board"
+      }
+    ],
     "first_seen": "2026-11-10T18:36:16.507788+00:00"
   },
   {
