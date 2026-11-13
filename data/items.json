@@ -44,6 +44,27 @@
     "first_seen": "2026-10-23T18:34:27.855332+00:00"
   },
   {
+    "url": "https://www.dallasfed.org/news/speeches/logan/2026/lkl261113",
+    "key": "https://dallasfed.org/news/speeches/logan/2026/lkl261113",
+    "title": "Operational readiness and bank funding: Considerations for depository institutions and the Federal Reserve",
+    "date": "2026-11-13",
+    "date_estimated": false,
+    "speaker_id": "logan",
+    "speaker": "Lorie K. Logan",
+    "role": "President",
+    "org": "Dallas",
+    "tier": "president",
+    "voter": true,
+    "type": "Speech",
+    "venue": "Remarks delivered by Dallas Fed President Lorie Logan at the “Bank Funding in the Age of Instance Finance” conference at the Federal Reserve Bank of Dallas.",
+    "topics": [],
+    "source_id": "dallas_direct",
+    "source_name": "Dallas Fed: president's speeches",
+    "priority": 2,
+    "alt_links": [],
+    "first_seen": "2026-11-13T18:28:09.667430+00:00"
+  },
+  {
     "url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
     "key": "https://federalreserve.gov/newsevents/speech/barr20261112a.htm",
     "title": "American Inequality and the Future of AI",
