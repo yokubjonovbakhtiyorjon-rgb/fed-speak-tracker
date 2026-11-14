@@ -44,6 +44,29 @@
     "first_seen": "2026-10-23T18:34:27.855332+00:00"
   },
   {
+    "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
+    "key": "https://federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
+    "title": "New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
+    "date": "2026-11-13",
+    "date_estimated": false,
+    "speaker_id": "jefferson",
+    "speaker": "Philip N. Jefferson",
+    "role": "Vice Chair",
+    "org": "Board of Governors",
+    "tier": "board",
+    "voter": true,
+    "type": "Speech",
+    "venue": "At the University of California, San Diego Economic Roundtable, San Diego, California",
+    "topics": [
+      "AI and productivity"
+    ],
+    "source_id": "board",
+    "source_name": "Board of Governors: speeches and testimony",
+    "priority": 1,
+    "alt_links": [],
+    "first_seen": "2026-11-14T06:27:33.420123+00:00"
+  },
+  {
     "url": "https://www.dallasfed.org/news/speeches/logan/2026/lkl261113",
     "key": "https://dallasfed.org/news/speeches/logan/2026/lkl261113",
     "title": "Operational readiness and bank funding: Considerations for depository institutions and the Federal Reserve",
