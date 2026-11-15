@@ -44,6 +44,30 @@
     "first_seen": "2026-10-23T18:34:27.855332+00:00"
   },
   {
+    "url": "https://www.kansascityfed.org/speeches/the-economic-outlook-monetary-policy-and-payments/",
+    "key": "https://kansascityfed.org/speeches/the-economic-outlook-monetary-policy-and-payments",
+    "title": "The Economic Outlook, Monetary Policy and Payments",
+    "date": "2026-11-15",
+    "date_estimated": true,
+    "speaker_id": null,
+    "speaker": "Federal Reserve Bank of Kansas City",
+    "role": "Reserve Bank official",
+    "org": "Kansas City",
+    "tier": "official",
+    "voter": false,
+    "type": "Speech",
+    "venue": "",
+    "topics": [
+      "Monetary policy",
+      "Payments and digital assets"
+    ],
+    "source_id": "kansascity_direct",
+    "source_name": "Kansas City Fed: speeches",
+    "priority": 3,
+    "alt_links": [],
+    "first_seen": "2026-11-15T18:52:48.158579+00:00"
+  },
+  {
     "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
     "key": "https://federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
     "title": "New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
