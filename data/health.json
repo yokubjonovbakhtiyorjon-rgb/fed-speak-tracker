@@ -5,7 +5,7 @@
     "url": "https://www.federalreserve.gov/feeds/speeches_and_testimony.xml",
     "ok": true,
     "parsed": 15,
-    "newest": "2026-11-16",
+    "newest": "2026-11-17",
     "stale": false,
     "error": null
   },
@@ -145,7 +145,7 @@
     "url": "https://www.fedinprint.org/rss/stlouis.rss",
     "ok": true,
     "parsed": 3,
-    "newest": "2026-11-06",
+    "newest": "2026-11-17",
     "stale": false,
     "error": null
   },

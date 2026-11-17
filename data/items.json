@@ -44,6 +44,54 @@
     "first_seen": "2026-10-23T18:34:27.855332+00:00"
   },
   {
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
+    "key": "https://federalreserve.gov/newsevents/speech/waller20261117a.htm",
+    "title": "Considerations at the Intersection of Payments and Tokenized Markets",
+    "date": "2026-11-17",
+    "date_estimated": false,
+    "speaker_id": "waller",
+    "speaker": "Christopher J. Waller",
+    "role": "Governor",
+    "org": "Board of Governors",
+    "tier": "board",
+    "voter": true,
+    "type": "Speech",
+    "venue": "At “Navigating the Future of Banking and Payments,” The Clearing House Annual Conference 2026, New York, New York",
+    "topics": [
+      "Payments and digital assets"
+    ],
+    "source_id": "board",
+    "source_name": "Board of Governors: speeches and testimony",
+    "priority": 1,
+    "alt_links": [],
+    "first_seen": "2026-11-17T19:44:55.442404+00:00"
+  },
+  {
+    "url": "https://fedinprint.org/item/fedlps/104077",
+    "key": "https://fedinprint.org/item/fedlps/104077",
+    "title": "Remarks on the U.S. Economy and Monetary Policy",
+    "date": "2026-11-17",
+    "date_estimated": false,
+    "speaker_id": "musalem",
+    "speaker": "Alberto G. Musalem",
+    "role": "President",
+    "org": "St. Louis",
+    "tier": "president",
+    "voter": false,
+    "type": "Discussion",
+    "venue": "St. Louis Fed President Alberto Musalem shared his views on the U.S. economy and monetary policy at the Central Bank of Argentina's 2026 Money and Banking Conference in Buenos Aires. Following his speech, \"Remarks on the U.S. Economy and Monetary Policy,\" he participated in a Q&A moderated by Gov. Santiago Bausili and Deputy Gov. Vladimir Werning of the Central Bank of Argentina.",
+    "topics": [
+      "Monetary policy",
+      "Inflation",
+      "Labor market"
+    ],
+    "source_id": "fip_stlouis",
+    "source_name": "Fed in Print: St. Louis",
+    "priority": 4,
+    "alt_links": [],
+    "first_seen": "2026-11-17T19:44:55.442404+00:00"
+  },
+  {
     "url": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm",
     "key": "https://federalreserve.gov/newsevents/speech/warsh20261116a.htm",
     "title": "Opening Remarks",
