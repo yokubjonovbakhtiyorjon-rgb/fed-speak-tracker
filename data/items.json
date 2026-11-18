@@ -44,6 +44,27 @@
     "first_seen": "2026-10-23T18:34:27.855332+00:00"
   },
   {
+    "url": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
+    "key": "https://federalreserve.gov/newsevents/speech/barr20261118a.htm",
+    "title": "Investing in America’s Underserved Communities",
+    "date": "2026-11-18",
+    "date_estimated": false,
+    "speaker_id": "barr",
+    "speaker": "Michael S. Barr",
+    "role": "Governor",
+    "org": "Board of Governors",
+    "tier": "board",
+    "voter": true,
+    "type": "Speech",
+    "venue": "At Making Missing Markets: Catalyzing Capital and Igniting Innovation, Federal Reserve Bank of New York, New York, New York",
+    "topics": [],
+    "source_id": "board",
+    "source_name": "Board of Governors: speeches and testimony",
+    "priority": 1,
+    "alt_links": [],
+    "first_seen": "2026-11-18T19:21:36.565425+00:00"
+  },
+  {
     "url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
     "key": "https://federalreserve.gov/newsevents/speech/waller20261117a.htm",
     "title": "Considerations at the Intersection of Payments and Tokenized Markets",
