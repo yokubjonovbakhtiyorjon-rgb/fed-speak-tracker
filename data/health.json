@@ -5,7 +5,7 @@
     "url": "https://www.federalreserve.gov/feeds/speeches_and_testimony.xml",
     "ok": true,
     "parsed": 15,
-    "newest": "2026-11-19",
+    "newest": "2026-11-20",
     "stale": false,
     "error": null
   },
@@ -64,8 +64,8 @@
     "name": "Fed in Print: Board",
     "url": "https://www.fedinprint.org/rss/board.rss",
     "ok": true,
-    "parsed": 9,
-    "newest": "2026-11-19",
+    "parsed": 11,
+    "newest": "2026-11-20",
     "stale": false,
     "error": null
   },
@@ -94,8 +94,8 @@
     "name": "Fed in Print: Philadelphia",
     "url": "https://www.fedinprint.org/rss/philadelphia.rss",
     "ok": true,
-    "parsed": 2,
-    "newest": "2026-11-10",
+    "parsed": 3,
+    "newest": "2026-11-19",
     "stale": false,
     "error": null
   },

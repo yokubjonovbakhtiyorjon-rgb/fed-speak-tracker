@@ -23,6 +23,84 @@
     "first_seen": "2026-10-30T17:40:01.424034+00:00"
   },
   {
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
+    "key": "https://federalreserve.gov/newsevents/speech/cook20261120a.htm",
+    "title": "The U.S. Economy in Global Context",
+    "date": "2026-11-20",
+    "date_estimated": false,
+    "speaker_id": "cook",
+    "speaker": "Lisa D. Cook",
+    "role": "Governor",
+    "org": "Board of Governors",
+    "tier": "board",
+    "voter": true,
+    "type": "Speech",
+    "venue": "At the XXIX Annual Conference of the Central Bank of Chile, Santiago, Chile",
+    "topics": [
+      "Trade and global"
+    ],
+    "source_id": "board",
+    "source_name": "Board of Governors: speeches and testimony",
+    "priority": 1,
+    "alt_links": [
+      {
+        "url": "https://fedinprint.org/item/fedgsq/104114",
+        "source": "Fed in Print: Board"
+      }
+    ],
+    "first_seen": "2026-11-20T19:01:59.362417+00:00"
+  },
+  {
+    "url": "https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm",
+    "key": "https://federalreserve.gov/newsevents/speech/waller20261120a.htm",
+    "title": "Opening Remarks",
+    "date": "2026-11-20",
+    "date_estimated": false,
+    "speaker_id": "waller",
+    "speaker": "Christopher J. Waller",
+    "role": "Governor",
+    "org": "Board of Governors",
+    "tier": "board",
+    "voter": true,
+    "type": "Speech",
+    "venue": "At the 2026 College Fed Challenge Finals, Board of Governors of the Federal Reserve System, Washington, D.C.",
+    "topics": [],
+    "source_id": "board",
+    "source_name": "Board of Governors: speeches and testimony",
+    "priority": 1,
+    "alt_links": [
+      {
+        "url": "https://fedinprint.org/item/fedgsq/104112",
+        "source": "Fed in Print: Board"
+      }
+    ],
+    "first_seen": "2026-11-20T19:01:59.362417+00:00"
+  },
+  {
+    "url": "https://fedinprint.org/item/fedpsp/104092",
+    "key": "https://fedinprint.org/item/fedpsp/104092",
+    "title": "Monetary Policy Communication: Do We Understand Each Other?",
+    "date": "2026-11-19",
+    "date_estimated": false,
+    "speaker_id": "paulson",
+    "speaker": "Anna L. Paulson",
+    "role": "President",
+    "org": "Philadelphia",
+    "tier": "president",
+    "voter": true,
+    "type": "Speech",
+    "venue": "In remarks delivered this evening at Money Marketeers in New York City, President and CEO Anna Paulson explored a question at the heart of monetary policy: Should a central bank tell you what it plans to do with interest rates?",
+    "topics": [
+      "Monetary policy",
+      "Balance sheet and markets"
+    ],
+    "source_id": "fip_philadelphia",
+    "source_name": "Fed in Print: Philadelphia",
+    "priority": 4,
+    "alt_links": [],
+    "first_seen": "2026-11-20T19:01:59.362417+00:00"
+  },
+  {
     "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
     "key": "https://federalreserve.gov/newsevents/speech/jefferson20261119a.htm",
     "title": "Monetary Policy amid Frequent and Complex Shocks",
@@ -234,6 +312,27 @@
     "priority": 3,
     "alt_links": [],
     "first_seen": "2026-11-15T18:52:48.158579+00:00"
+  },
+  {
+    "url": "https://www.dallasfed.org/news/speeches/speeches-leaders/2026/261113eg",
+    "key": "https://dallasfed.org/news/speeches/speeches-leaders/2026/261113eg",
+    "title": "Opening remarks for the 2026 Bank Funding Conference",
+    "date": "2026-11-13",
+    "date_estimated": false,
+    "speaker_id": "logan",
+    "speaker": "Lorie K. Logan",
+    "role": "President",
+    "org": "Dallas",
+    "tier": "president",
+    "voter": true,
+    "type": "Speech",
+    "venue": "Remarks by delivered by Dallas Fed Senior Vice President Emily Greenwald at the conference titled \"Bank Funding in the Age of Instant Finance.\"",
+    "topics": [],
+    "source_id": "dallas_direct",
+    "source_name": "Dallas Fed: president's speeches",
+    "priority": 2,
+    "alt_links": [],
+    "first_seen": "2026-11-20T19:01:59.362417+00:00"
   },
   {
     "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
