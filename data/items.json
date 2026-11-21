@@ -178,6 +178,29 @@
     "first_seen": "2026-11-18T19:21:36.565425+00:00"
   },
   {
+    "url": "https://fedinprint.org/item/fedcsp/104148",
+    "key": "https://fedinprint.org/item/fedcsp/104148",
+    "title": "Lessons from a Burning River",
+    "date": "2026-11-17",
+    "date_estimated": false,
+    "speaker_id": "hammack",
+    "speaker": "Beth M. Hammack",
+    "role": "President",
+    "org": "Cleveland",
+    "tier": "president",
+    "voter": true,
+    "type": "Speech",
+    "venue": "Beth Hammack, president and CEO, spoke at the Brookings Institution about how the Fed should prepare for possible US Treasury market intervention.",
+    "topics": [
+      "Balance sheet and markets"
+    ],
+    "source_id": "fip_cleveland",
+    "source_name": "Fed in Print: Cleveland",
+    "priority": 4,
+    "alt_links": [],
+    "first_seen": "2026-11-21T07:11:56.481929+00:00"
+  },
+  {
     "url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
     "key": "https://federalreserve.gov/newsevents/speech/waller20261117a.htm",
     "title": "Considerations at the Intersection of Payments and Tokenized Markets",
