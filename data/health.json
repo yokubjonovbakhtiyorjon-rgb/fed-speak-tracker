@@ -5,7 +5,7 @@
     "url": "https://www.federalreserve.gov/feeds/speeches_and_testimony.xml",
     "ok": true,
     "parsed": 15,
-    "newest": "2026-11-20",
+    "newest": "2026-11-25",
     "stale": false,
     "error": null
   },
@@ -64,8 +64,8 @@
     "name": "Fed in Print: Board",
     "url": "https://www.fedinprint.org/rss/board.rss",
     "ok": true,
-    "parsed": 11,
-    "newest": "2026-11-20",
+    "parsed": 12,
+    "newest": "2026-11-25",
     "stale": false,
     "error": null
   },
