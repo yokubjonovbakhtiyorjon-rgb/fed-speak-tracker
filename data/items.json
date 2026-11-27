@@ -365,6 +365,31 @@
     "first_seen": "2026-11-15T18:52:48.158579+00:00"
   },
   {
+    "url": "https://fedinprint.org/item/fedbsp/104171",
+    "key": "https://fedinprint.org/item/fedbsp/104171",
+    "title": "Observations on Housing Market Challenges",
+    "date": "2026-11-13",
+    "date_estimated": false,
+    "speaker_id": "collins",
+    "speaker": "Susan M. Collins",
+    "role": "President",
+    "org": "Boston",
+    "tier": "president",
+    "voter": false,
+    "type": "Speech",
+    "venue": "Federal Reserve Bank of Boston President & CEO Susan M. Collins discussed the importance of housing to the U.S. economy in opening remarks at the Bank's 70th Economic Conference. Collins highlighted how housing affects households and businesses, the role of monetary policy, and the value of rigorous research in understanding housing market challenges and informing potential solutions.",
+    "topics": [
+      "Monetary policy",
+      "Inflation",
+      "AI and productivity"
+    ],
+    "source_id": "fip_boston",
+    "source_name": "Fed in Print: Boston",
+    "priority": 4,
+    "alt_links": [],
+    "first_seen": "2026-11-27T19:52:23.210998+00:00"
+  },
+  {
     "url": "https://www.dallasfed.org/news/speeches/speeches-leaders/2026/261113eg",
     "key": "https://dallasfed.org/news/speeches/speeches-leaders/2026/261113eg",
     "title": "Opening remarks for the 2026 Bank Funding Conference",
@@ -810,6 +835,34 @@
     "first_seen": "2026-10-15T06:58:59.465173+00:00"
   },
   {
+    "url": "https://fedinprint.org/item/fedbsp/104170",
+    "key": "https://fedinprint.org/item/fedbsp/104170",
+    "title": "Perspectives on the Economy and the Banking Landscape",
+    "date": "2026-10-13",
+    "date_estimated": false,
+    "speaker_id": "collins",
+    "speaker": "Susan M. Collins",
+    "role": "President",
+    "org": "Boston",
+    "tier": "president",
+    "voter": false,
+    "type": "Speech",
+    "venue": "President & CEO Susan M. Collins spoke at the Federal Reserve Bank of Boston’s 25th Annual Regional & Community Bankers Conference and discussed the national economy, monetary policy, and banking conditions in New England. Collins highlighted the economy’s resilience, the risks of persistently elevated inflation, and the recent Federal Open Market Committee decision to raise the federal funds rate. She said she currently expects \"it will be appropriate to raise rates a bit further before the end of the year.\" But she said that it would \"depend importantly on how the totality of incoming data shapes my outlook and the associated balance of risks.\" Collins also spoke of the benefits of a system where regional Reserve Banks conduct research and hear from stakeholders at events like the conference. This “regional rootedness” helps the Fed understand current conditions and future expectations, Collins said. “I and other regional Reserve Bank presidents bring these insights to the monetary policymaking table in Washington,” she said.",
+    "topics": [
+      "Monetary policy",
+      "Inflation",
+      "Labor market",
+      "Banking and supervision",
+      "Financial stability",
+      "Regional economy"
+    ],
+    "source_id": "fip_boston",
+    "source_name": "Fed in Print: Boston",
+    "priority": 4,
+    "alt_links": [],
+    "first_seen": "2026-11-27T19:52:23.210998+00:00"
+  },
+  {
     "url": "https://fedinprint.org/item/fedcsp/103920",
     "key": "https://fedinprint.org/item/fedcsp/103920",
     "title": "Trimming the Sails: Communicating My Reaction Function",
@@ -831,6 +884,27 @@
     "priority": 4,
     "alt_links": [],
     "first_seen": "2026-10-13T00:46:44.386391+00:00"
+  },
+  {
+    "url": "https://fedinprint.org/item/fedbsp/104169",
+    "key": "https://fedinprint.org/item/fedbsp/104169",
+    "title": "Remarks at the Conference in Memory of John Leahy",
+    "date": "2026-10-09",
+    "date_estimated": false,
+    "speaker_id": "collins",
+    "speaker": "Susan M. Collins",
+    "role": "President",
+    "org": "Boston",
+    "tier": "president",
+    "voter": false,
+    "type": "Speech",
+    "venue": "Federal Reserve Bank of Boston President & CEO Susan M. Collins paid tribute to the late economist John Leahy at a memorial conference sponsored by the University of Michigan’s Department of Economics and Ford School of Public Policy, and the New York University Department of Economics. Drawing on their decades-long professional relationship, Collins reflected on Leahy’s generosity as a colleague and mentor, as well as his influential research. She highlighted how his work helped bridge economic theory and policymaking, shaping how economists and central bankers understand the complexities of the economy.",
+    "topics": [],
+    "source_id": "fip_boston",
+    "source_name": "Fed in Print: Boston",
+    "priority": 4,
+    "alt_links": [],
+    "first_seen": "2026-11-27T19:52:23.210998+00:00"
   },
   {
     "url": "https://www.federalreserve.gov/newsevents/speech/waller20261008a.htm",
@@ -1592,6 +1666,33 @@
     "priority": 4,
     "alt_links": [],
     "first_seen": "2026-10-06T13:40:42.189695+00:00"
+  },
+  {
+    "url": "https://fedinprint.org/item/fedbsp/104168",
+    "key": "https://fedinprint.org/item/fedbsp/104168",
+    "title": "Perspectives on the Economy from Susan M. Collins",
+    "date": "2026-08-25",
+    "date_estimated": false,
+    "speaker_id": "collins",
+    "speaker": "Susan M. Collins",
+    "role": "President",
+    "org": "Boston",
+    "tier": "president",
+    "voter": false,
+    "type": "Speech",
+    "venue": "Before heading to the Federal Reserve’s annual symposium at Jackson Hole, Wyoming, I have been meeting with stakeholders in the economy from across New England, the Boston Fed’s region – hearing their experiences and sharing my take on current conditions and monetary policy. And, as always, monitoring a great deal of economic data. I am pleased to share a summary of my views in this Perspectives. Overall, I see recent economic activity as expanding at a near-trend pace and labor market conditions as broadly consistent with maximum or full employment, one part of the Fed’s dual mandate. But with inflation still too high, I remain particularly concerned about the price stability portion of the dual mandate.",
+    "topics": [
+      "Monetary policy",
+      "Inflation",
+      "Labor market",
+      "AI and productivity",
+      "Trade and global"
+    ],
+    "source_id": "fip_boston",
+    "source_name": "Fed in Print: Boston",
+    "priority": 4,
+    "alt_links": [],
+    "first_seen": "2026-11-27T19:52:23.210998+00:00"
   },
   {
     "url": "https://fedinprint.org/item/r00034/103637",
