@@ -51,6 +51,33 @@
     "first_seen": "2026-11-25T20:26:08.296575+00:00"
   },
   {
+    "url": "https://fedinprint.org/item/fednsp/104175",
+    "key": "https://fedinprint.org/item/fednsp/104175",
+    "title": "The Economic Mixdown",
+    "date": "2026-11-23",
+    "date_estimated": false,
+    "speaker_id": "williams",
+    "speaker": "John C. Williams",
+    "role": "President; FOMC Vice Chair",
+    "org": "New York",
+    "tier": "president",
+    "voter": true,
+    "type": "Speech",
+    "venue": "Remarks at the University of Mount Saint Vincent, Bronx, New York.",
+    "topics": [
+      "Monetary policy",
+      "Inflation",
+      "Labor market",
+      "Financial stability",
+      "AI and productivity"
+    ],
+    "source_id": "fip_newyork",
+    "source_name": "Fed in Print: New York",
+    "priority": 4,
+    "alt_links": [],
+    "first_seen": "2026-11-28T02:35:39.533432+00:00"
+  },
+  {
     "url": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
     "key": "https://federalreserve.gov/newsevents/speech/cook20261120a.htm",
     "title": "The U.S. Economy in Global Context",
